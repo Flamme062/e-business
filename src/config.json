@@ -68,22 +68,22 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Technology",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Gaming",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Keyboards",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Mouses",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Headsets",
               "menuLink": "/shop"
             }
           ]
