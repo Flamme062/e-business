@@ -25,7 +25,7 @@
   "footerLinks": [
     {
       "subTitle": "Info",
-      "links": [
+      "links": 
         {
           "text": "About Us",
           "link": "/about"
@@ -41,19 +41,19 @@
       ]
     },
     {
-      "subTitle": "Support",
-      "links": [
+      "subTitle": "",
+      "links": 
         {
-          "text": "FAQ",
-          "link": "/faq"
+          "text": "",
+          "link": ""
         },
         {
-          "text": "Contact Us",
-          "link": "/support#contact"
+          "text": "",
+          "link": ""
         },
         {
-          "text": "Shipping & Returns",
-          "link": "/support#returns"
+          "text": "",
+          "link": ""
         },
         {
           "text": "How to use this theme",
@@ -62,7 +62,7 @@
       ]
     }
   ],
-  "headerLinks": [
+  "headerLinks": 
     {
       "menuLabel": "Shop",
       "menuLink": "/shop",
