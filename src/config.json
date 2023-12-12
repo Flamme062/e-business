@@ -89,39 +89,39 @@
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Coming Soon",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pants",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Coming Soon",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Coming Soon",
               "menuLink": "/shop"
             }
           ]
@@ -129,13 +129,13 @@
       ]
     },
     {
-      "menuLabel": "journal",
-      "menuLink": "/blog",
+      "menuLabel": "",
+      "menuLink": "",
       "category": null
     },
     {
-      "menuLabel": "About",
-      "menuLink": "/about",
+      "menuLabel": "",
+      "menuLink": "",
       "category": null
     }
   ],
